@@ -10,9 +10,9 @@ import React from 'react';
 import Register from './Components/Signin/Register';
 
 const setupClarifai = (image_url) => {
-  const PAT = '2c8fcc186cef4c079de2aa40ce492fc6';
-  const USER_ID = 'sans0099';       
-  const APP_ID = 'my-first-application-iq9ysx';
+  const PAT = '';
+  const USER_ID = '';       
+  const APP_ID = '';
   const MODEL_ID = 'face-detection';
   const IMAGE_URL = image_url;
 
